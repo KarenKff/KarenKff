@@ -16,3 +16,13 @@ Technologies & Tools:
 ![psh 1](https://user-images.githubusercontent.com/115322226/194726396-f4e9a29c-25b6-4599-a46a-8155a0cbc985.PNG)
 ![tre](https://user-images.githubusercontent.com/115322226/194726487-8c8c9a64-4eb6-4631-8e88-7d3a06206e24.PNG)
 
+</div>
+
+<div align="center">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
