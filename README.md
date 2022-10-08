@@ -30,7 +30,7 @@ Technologies & Tools:
 </h1>
 <p align="center"><i>""</i></p> -->
 <div align="center">
-  <a href="https://github.com/KarenKff">
+  <a href="https://https://github.com/KarenKff/KarenKff/edit/main/README.md">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karen&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 
 
