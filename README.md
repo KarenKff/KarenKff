@@ -12,3 +12,7 @@ Technologies & Tools:
 ![2](https://user-images.githubusercontent.com/115322226/194675265-0886dba1-0dc1-49bb-86df-ec83bae9368c.png)
 ![JS](https://user-images.githubusercontent.com/115322226/194675452-cc1f00dd-330d-44e5-80cc-e6688cef7e07.PNG)
 ![jira](https://user-images.githubusercontent.com/115322226/194675625-38f0c947-2cba-4100-bc56-9ace644714dd.PNG)
+
+![psh 1](https://user-images.githubusercontent.com/115322226/194726396-f4e9a29c-25b6-4599-a46a-8155a0cbc985.PNG)
+![tre](https://user-images.githubusercontent.com/115322226/194726487-8c8c9a64-4eb6-4631-8e88-7d3a06206e24.PNG)
+
