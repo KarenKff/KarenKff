@@ -20,30 +20,20 @@ Technologies & Tools:
      
   </a><br>
   <p align="center">  
-
-  <p align="center">       
-     
+  <p align="center">            
   </p>
-
   <p align="center">    
   </p>
-
 </div>
-
 <!-- <h1 align="center"> 
   Trybe
 </h1>
 <p align="center"><i>""</i></p> -->
-
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  <a href="https://github.com/KarenKff">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karen&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  < >
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40"
+
 </div><br>
 
 <div align="center">
