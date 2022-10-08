@@ -30,14 +30,10 @@ Technologies & Tools:
 </h1>
 <p align="center"><i>""</i></p> -->
 <div align="center">
-  <a href="https://https://github.com/KarenKff/KarenKff/edit/main/README.md">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karen&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-
-
+ 
 </div><br>
 
-<div align="center">
- 
+<div align="center"> 
   
   <a href="https://www.linkedin.com/in/karen-k%C3%BCffer-b70039237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
