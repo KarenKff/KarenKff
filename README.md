@@ -33,20 +33,7 @@ Technologies & Tools:
 <div align="center">
   <a href="https:https://github.com/KarenKff">
  
-</div>
-<div style="display: inline_block"><br>
-  
-</div>
-  
-  ##
- 
-<div> 
-  
- 	
 
- 
-
-  
 </div>
 
 
