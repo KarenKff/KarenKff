@@ -16,33 +16,37 @@ Technologies & Tools:
 ![psh 1](https://user-images.githubusercontent.com/115322226/194726396-f4e9a29c-25b6-4599-a46a-8155a0cbc985.PNG)
 ![tre](https://user-images.githubusercontent.com/115322226/194726487-8c8c9a64-4eb6-4631-8e88-7d3a06206e24.PNG)
 <div>
- 
-     
-  </a><br>
-  <p align="center">  
-  <p align="center">            
-  </p>
-  <p align="center">    
-  </p>
-</div>
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-<p align="center"><i>""</i></p> -->
-<div align="center">
- 
+  
 </div><br>
-
-<div align="center"> 
-  
+<div align="center">   
   <a href="https://www.linkedin.com/in/karen-k%C3%BCffer-b70039237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
+   <a href = "mailto:karenkuffer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
 <div align="center">  
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+
+<div align="center">
+  <a href="https:https://github.com/KarenKff">
+ 
+</div>
+<div style="display: inline_block"><br>
+  
+</div>
+  
+  ##
+ 
+<div> 
+  
+ 	
+
+ 
+
+  
+</div>
+
 
