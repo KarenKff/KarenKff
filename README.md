@@ -7,14 +7,14 @@ Technologies & Tools:
 
 ![java1](https://user-images.githubusercontent.com/115322226/194673820-1bf20c5e-0144-4fc6-8fa9-51157b6abafd.png)
 ![MySQLc](https://user-images.githubusercontent.com/115322226/194675018-7301e62e-1696-40ef-ad21-7e395adfa2ee.png)
-![git 1](https://user-images.githubusercontent.com/115322226/194674103-0b1028ff-e2cc-42f9-aef7-3ba5b7173ce6.png)
 ![JPA 1](https://user-images.githubusercontent.com/115322226/194674709-26facce0-8012-4129-8412-37fa4f580b03.png)
 ![2](https://user-images.githubusercontent.com/115322226/194675265-0886dba1-0dc1-49bb-86df-ec83bae9368c.png)
 ![JS](https://user-images.githubusercontent.com/115322226/194675452-cc1f00dd-330d-44e5-80cc-e6688cef7e07.PNG)
-![jira](https://user-images.githubusercontent.com/115322226/194675625-38f0c947-2cba-4100-bc56-9ace644714dd.PNG)
 
+![git 1](https://user-images.githubusercontent.com/115322226/194674103-0b1028ff-e2cc-42f9-aef7-3ba5b7173ce6.png)
 ![psh 1](https://user-images.githubusercontent.com/115322226/194726396-f4e9a29c-25b6-4599-a46a-8155a0cbc985.PNG)
 ![tre](https://user-images.githubusercontent.com/115322226/194726487-8c8c9a64-4eb6-4631-8e88-7d3a06206e24.PNG)
+![jira](https://user-images.githubusercontent.com/115322226/194675625-38f0c947-2cba-4100-bc56-9ace644714dd.PNG)
 <div>
   
 </div><br>
@@ -40,4 +40,4 @@ Technologies & Tools:
 
 
 
-![github1](https://user-images.githubusercontent.com/115322226/194765827-a6462827-274c-4341-9eaa-afc2d4201f3e.png)
+   ![github1](https://user-images.githubusercontent.com/115322226/194765827-a6462827-274c-4341-9eaa-afc2d4201f3e.png)
