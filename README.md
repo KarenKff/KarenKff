@@ -9,7 +9,11 @@ Technologies & Tools:
 ![MySQLc](https://user-images.githubusercontent.com/115322226/194675018-7301e62e-1696-40ef-ad21-7e395adfa2ee.png)
 ![JPA 1](https://user-images.githubusercontent.com/115322226/194674709-26facce0-8012-4129-8412-37fa4f580b03.png)
 ![2](https://user-images.githubusercontent.com/115322226/194675265-0886dba1-0dc1-49bb-86df-ec83bae9368c.png)
+![html1](https://user-images.githubusercontent.com/115322226/195703674-e5d7acfa-e926-4ec8-91e7-5efdb4a4404c.png)
 ![JS](https://user-images.githubusercontent.com/115322226/194675452-cc1f00dd-330d-44e5-80cc-e6688cef7e07.PNG)
+
+
+
 
 ![git 1](https://user-images.githubusercontent.com/115322226/194674103-0b1028ff-e2cc-42f9-aef7-3ba5b7173ce6.png)
 ![psh 1](https://user-images.githubusercontent.com/115322226/194726396-f4e9a29c-25b6-4599-a46a-8155a0cbc985.PNG)
