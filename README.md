@@ -1,4 +1,4 @@
-Tester QA
+Software Tester QA
 
 Learning BackEnd and FrontEnd
 
@@ -45,3 +45,18 @@ Technologies & Tools:
 
 
    ![github1](https://user-images.githubusercontent.com/115322226/194765827-a6462827-274c-4341-9eaa-afc2d4201f3e.png)
+   
+![soft skills 3](https://user-images.githubusercontent.com/115322226/196510220-77783f18-ce65-4b2f-8b8c-503f2fcb4b6a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
